@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://github.com/CodeCritic-Reviews/review-action/raw/main/.github/wordmark.svg" alt="CodeCritic" width="220" />
+<a href="https://code-critic.com"><img src="https://github.com/CodeCritic-Reviews/review-action/raw/main/.github/wordmark.svg" alt="CodeCritic" width="220" /></a>
 
 # CodeCritic Reviews
 
